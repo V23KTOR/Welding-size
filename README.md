@@ -8,7 +8,7 @@
 > [!NOTE]
 > This is a note.
 
-> [!TIP]
+> [!TI]
 > This is a tip. (Supported since 14 Nov 2023)
 
 > [!IMPORTANT]
