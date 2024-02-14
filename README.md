@@ -3,11 +3,19 @@
 
 ### Задача:
 Решить задачу регрессии для предсказания глубины и ширины сварного соединения, выполнив необходимые этапы (разведочный анализ, предобработка)
-<div class="alert alert-block alert-info"><h3>Поиск пропущенных значений</h3> </div>
-[!IMPORTANT]
-Key information users need to know to achieve their goal.
-> [!Task]
-> Key information users need to know to achieve their goal.
 
+## Simple alerts
+> [!NOTE]
+> This is a note.
 
-[!TIP] Helpful advice for doing things better or more easily
+> [!TIP]
+> This is a tip. (Supported since 14 Nov 2023)
+
+> [!IMPORTANT]
+> Crutial information comes here.
+
+> [!CAUTION]
+> Negative potential consequences of an action. (Supported since 14 Nov 2023)
+
+> [!WARNING]
+> Critical content comes here.
