@@ -1,9 +1,5 @@
 # Welding-size
 «Прогнозирование размеров сварного шва при электронно-лучевой сварке тонкостенных конструкций аэрокосмического назначения»
 
-### Задача:
-
-
-## Simple alerts
 > [!NOTE]
-> Решить задачу регрессии для предсказания глубины и ширины сварного соединения, выполнив необходимые этапы (разведочный анализ, предобработка)
+> The task was to solve the regression problem for predicting the depth and width of the welded joint by completing the necessary steps (exploratory analysis, preprocessing)
